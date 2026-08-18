@@ -11,4 +11,10 @@ public class Math {
 
     }
 }
+public class saniya{
+    static void main(String[] args) {
+        string name = "saniya";
+        System.out.println("sanita" : + saniya);
+    }
+}
 
